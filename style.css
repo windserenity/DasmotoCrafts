@@ -1,0 +1,65 @@
+
+.header h1{
+    color: khaki;
+    font-family: Arial, Helvetica;
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-image:url(/img/pattern.webp)
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(48, 47, 47); 
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+ #brushes {
+      color: white;
+      font-family: Helvetica;
+      font-weight: bold;
+      font-size: 32px;
+      background-color: mediumspringgreen;
+  }
+
+ #frames {
+    color: white;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 32px;
+    background-color: lightcoral;
+ } 
+  
+ #paint {
+    color: white;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 32px;
+    background-color: skyblue;
+ }
+  strong {
+      color: blue;
+  }
+
+  figure{
+      margin-left: 0px;
+  }
